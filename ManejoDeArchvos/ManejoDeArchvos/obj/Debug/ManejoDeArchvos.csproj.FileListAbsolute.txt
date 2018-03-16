@@ -1,0 +1,9 @@
+c:\users\antonio\documents\visual studio 2015\Projects\ManejoDeArchvos\ManejoDeArchvos\bin\Debug\ManejoDeArchvos.exe.config
+c:\users\antonio\documents\visual studio 2015\Projects\ManejoDeArchvos\ManejoDeArchvos\bin\Debug\ManejoDeArchvos.exe
+c:\users\antonio\documents\visual studio 2015\Projects\ManejoDeArchvos\ManejoDeArchvos\bin\Debug\ManejoDeArchvos.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\ManejoDeArchvos\ManejoDeArchvos\obj\Debug\ManejoDeArchvos.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2015\Projects\ManejoDeArchvos\ManejoDeArchvos\obj\Debug\ManejoDeArchvos.Form1.resources
+c:\users\antonio\documents\visual studio 2015\Projects\ManejoDeArchvos\ManejoDeArchvos\obj\Debug\ManejoDeArchvos.Properties.Resources.resources
+c:\users\antonio\documents\visual studio 2015\Projects\ManejoDeArchvos\ManejoDeArchvos\obj\Debug\ManejoDeArchvos.csproj.GenerateResource.Cache
+c:\users\antonio\documents\visual studio 2015\Projects\ManejoDeArchvos\ManejoDeArchvos\obj\Debug\ManejoDeArchvos.exe
+c:\users\antonio\documents\visual studio 2015\Projects\ManejoDeArchvos\ManejoDeArchvos\obj\Debug\ManejoDeArchvos.pdb
