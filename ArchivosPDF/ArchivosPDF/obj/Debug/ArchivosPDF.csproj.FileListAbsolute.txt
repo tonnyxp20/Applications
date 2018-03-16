@@ -1,0 +1,15 @@
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\bin\Debug\ArchivosPDF.exe.config
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\bin\Debug\ArchivosPDF.exe
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\bin\Debug\ArchivosPDF.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\bin\Debug\MySql.Data.dll
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\bin\Debug\MySql.Data.xml
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\obj\Debug\ArchivosPDF.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\obj\Debug\ArchivosPDF.Form1.resources
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\obj\Debug\ArchivosPDF.Properties.Resources.resources
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\obj\Debug\ArchivosPDF.csproj.GenerateResource.Cache
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\obj\Debug\ArchivosPDF.exe
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\obj\Debug\ArchivosPDF.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\ArchivosPDF\ArchivosPDF\bin\Debug\itextsharp.dll
+D:\.TSM 41\Desarollo de Aplicaciones II\ArchivosPDF\ArchivosPDF\bin\Debug\ArchivosPDF.exe.config
+D:\.TSM 41\Desarollo de Aplicaciones II\ArchivosPDF\ArchivosPDF\obj\Debug\ArchivosPDF.exe
+D:\.TSM 41\Desarollo de Aplicaciones II\ArchivosPDF\ArchivosPDF\obj\Debug\ArchivosPDF.pdb
