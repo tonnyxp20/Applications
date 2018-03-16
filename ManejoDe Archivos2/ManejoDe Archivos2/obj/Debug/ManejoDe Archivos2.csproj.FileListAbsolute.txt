@@ -1,0 +1,8 @@
+C:\Users\Antonio\documents\visual studio 2015\Projects\ManejoDe Archivos2\ManejoDe Archivos2\obj\Debug\ManejoDe Archivos2.csproj.GenerateResource.Cache
+C:\Users\Antonio\documents\visual studio 2015\Projects\ManejoDe Archivos2\ManejoDe Archivos2\obj\Debug\ManejoDe_Archivos2.Form1.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\ManejoDe Archivos2\ManejoDe Archivos2\bin\Debug\ManejoDe_Archivos2.exe.config
+C:\Users\Antonio\documents\visual studio 2015\Projects\ManejoDe Archivos2\ManejoDe Archivos2\obj\Debug\ManejoDe_Archivos2.Properties.Resources.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\ManejoDe Archivos2\ManejoDe Archivos2\bin\Debug\ManejoDe_Archivos2.exe
+C:\Users\Antonio\documents\visual studio 2015\Projects\ManejoDe Archivos2\ManejoDe Archivos2\bin\Debug\ManejoDe_Archivos2.pdb
+C:\Users\Antonio\documents\visual studio 2015\Projects\ManejoDe Archivos2\ManejoDe Archivos2\obj\Debug\ManejoDe_Archivos2.exe
+C:\Users\Antonio\documents\visual studio 2015\Projects\ManejoDe Archivos2\ManejoDe Archivos2\obj\Debug\ManejoDe_Archivos2.pdb
