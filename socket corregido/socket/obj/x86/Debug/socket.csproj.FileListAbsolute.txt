@@ -1,0 +1,32 @@
+C:\Users\Nyol\Desktop\socket\socket\bin\Debug\socket.exe
+C:\Users\Nyol\Desktop\socket\socket\bin\Debug\socket.pdb
+C:\Users\Nyol\Desktop\socket\socket\obj\x86\Debug\socket.Form1.resources
+C:\Users\Nyol\Desktop\socket\socket\obj\x86\Debug\socket.Properties.Resources.resources
+C:\Users\Nyol\Desktop\socket\socket\obj\x86\Debug\socket.csproj.GenerateResource.Cache
+C:\Users\Nyol\Desktop\socket\socket\obj\x86\Debug\socket.exe
+C:\Users\Nyol\Desktop\socket\socket\obj\x86\Debug\socket.pdb
+C:\Users\Nyol\Desktop\socket\socket\obj\x86\Debug\socket.csprojResolveAssemblyReference.cache
+E:\utcj todo\Desarrollo de aplicaciones II\socket\socket\obj\x86\Debug\socket.exe
+E:\utcj todo\Desarrollo de aplicaciones II\socket\socket\obj\x86\Debug\socket.pdb
+C:\Users\Antonio\Desktop\socket incompleto\socket\obj\x86\Debug\socket.exe
+C:\Users\Antonio\Desktop\socket incompleto\socket\obj\x86\Debug\socket.pdb
+C:\Users\Antonio\Desktop\socket corregido\socket\obj\x86\Debug\socket.exe
+C:\Users\Antonio\Desktop\socket corregido\socket\obj\x86\Debug\socket.pdb
+C:\Users\Antonio\Desktop\socket corregido\socket\bin\Debug\socket.exe
+C:\Users\Antonio\Desktop\socket corregido\socket\bin\Debug\socket.pdb
+C:\Users\Antonio\Desktop\socket corregido\socket\obj\x86\Debug\socket.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\socket corregido\socket\obj\x86\Debug\socket.Form1.resources
+C:\Users\Antonio\Desktop\socket corregido\socket\obj\x86\Debug\socket.Properties.Resources.resources
+C:\Users\Antonio\Desktop\socket corregido\socket\obj\x86\Debug\socket.csproj.GenerateResource.Cache
+C:\Users\Antonio\Desktop\socket corregido\socket\obj\x86\Debug\socket.M1.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\obj\x86\Debug\socket.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\obj\x86\Debug\socket.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\bin\Debug\socket.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\bin\Debug\socket.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\obj\x86\Debug\socket.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\obj\x86\Debug\socket.Form1.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\obj\x86\Debug\socket.M1.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\obj\x86\Debug\socket.Properties.Resources.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\obj\x86\Debug\socket.csproj.GenerateResource.Cache
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\socket corregido\socket\bin\Debug\MySql.Data.xml
