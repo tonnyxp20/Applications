@@ -1,0 +1,59 @@
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.vbprojResolveAssemblyReference.cache
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.vbproj.GenerateResource.Cache
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\bin\Debug\Empeño.exe.config
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\bin\Debug\Empeño.exe
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\bin\Debug\Empeño.pdb
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\bin\Debug\Empeño.xml
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.Login.resources
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.Panel.resources
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.Resources.resources
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.exe
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.xml
+C:\Users\Antonio\Dropbox\Ingeneria del Software\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\WindowsApplication1\WindowsApplication1\bin\Debug\Empeño.exe.config
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.xml
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\WindowsApplication1\WindowsApplication1\obj\Debug\Empeño.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\bin\Debug\Empeño.exe.config
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\bin\Debug\Empeño.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\bin\Debug\Empeño.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\bin\Debug\Empeño.xml
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.Articulos.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.Buscar.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.Calculadora.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.Clientes.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.Login.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.Panel.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.Resources.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.Usuarios.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.vbproj.GenerateResource.Cache
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.xml
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.pdb
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\bin\Debug\Empeño.exe.config
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\bin\Debug\Empeño.exe
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\bin\Debug\Empeño.pdb
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\bin\Debug\Empeño.xml
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.Articulos.resources
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.Buscar.resources
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.Calculadora.resources
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.Clientes.resources
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.Login.resources
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.Panel.resources
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.Resources.resources
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.Usuarios.resources
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.vbproj.GenerateResource.Cache
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.exe
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.xml
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.pdb
+C:\Users\Antonio\Desktop\Empeño\WindowsApplication1\obj\Debug\Empeño.vbprojResolveAssemblyReference.cache
+D:\.TSM 41\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\bin\Debug\Empeño.exe.config
+D:\.TSM 41\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.exe
+D:\.TSM 41\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.xml
+D:\.TSM 41\Desarollo de Aplicaciones II\Empeño\WindowsApplication1\obj\Debug\Empeño.pdb
