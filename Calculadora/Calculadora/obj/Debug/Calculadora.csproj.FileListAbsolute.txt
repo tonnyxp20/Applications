@@ -1,0 +1,27 @@
+C:\Users\Tonny\Desktop\Programa\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Tonny\Desktop\Programa\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Tonny\Desktop\Programa\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Tonny\Desktop\Programa\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Tonny\Desktop\Programa\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Tonny\Desktop\Programa\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Tonny\Desktop\Programa\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Tonny\Desktop\Programa\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Tonny\Desktop\Programa\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Tonny\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Tonny\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Tonny\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Tonny\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Tonny\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Tonny\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Tonny\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Tonny\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Tonny\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
