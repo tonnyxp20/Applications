@@ -1,0 +1,26 @@
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\bin\Release\PracticaVB1.exe.config
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\bin\Release\PracticaVB1.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\bin\Release\PracticaVB1.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\bin\Release\PracticaVB1.xml
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.Calculadora.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.Login.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.Resources.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.Tablas.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.vbproj.GenerateResource.Cache
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.xml
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.vbprojResolveAssemblyReference.cache
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\bin\Release\PracticaVB1.exe.config
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.exe
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.xml
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.pdb
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\bin\Release\PracticaVB1.exe
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\bin\Release\PracticaVB1.pdb
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\bin\Release\PracticaVB1.xml
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.vbprojResolveAssemblyReference.cache
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.Calculadora.resources
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.Login.resources
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.Resources.resources
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.Tablas.resources
+D:\.TSM 41\Desarollo de Aplicaciones II\PracticaVB1\PracticaVB1\obj\Release\PracticaVB1.vbproj.GenerateResource.Cache
