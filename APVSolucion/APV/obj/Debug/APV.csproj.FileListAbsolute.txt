@@ -1,0 +1,24 @@
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\bin\Debug\APV.exe.config
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\bin\Debug\APV.exe
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\bin\Debug\APV.pdb
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\bin\Debug\MySql.Data.dll
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\bin\Debug\MySql.Data.xml
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.Inventario.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.Login.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.Menu.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.Properties.Resources.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.Registro.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.Reportes.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.Ventas.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.csproj.GenerateResource.Cache
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.exe
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.pdb
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\obj\Debug\APV.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\bin\Debug\itextsharp.dll
+C:\Users\Antonio\documents\visual studio 2015\Projects\APVSolucion\APV\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\APVSolucion\APV\bin\Debug\APV.exe.config
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\APVSolucion\APV\obj\Debug\APV.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\APVSolucion\APV\obj\Debug\APV.pdb
+D:\.TSM 41\Desarollo de Aplicaciones II\APVSolucion\APV\bin\Debug\APV.exe.config
+D:\.TSM 41\Desarollo de Aplicaciones II\APVSolucion\APV\obj\Debug\APV.exe
+D:\.TSM 41\Desarollo de Aplicaciones II\APVSolucion\APV\obj\Debug\APV.pdb
