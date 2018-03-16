@@ -1,0 +1,12 @@
+c:\users\antonio\documents\visual studio 2015\Projects\AgendaSolucion\Agenda\bin\Debug\Agenda.exe.config
+c:\users\antonio\documents\visual studio 2015\Projects\AgendaSolucion\Agenda\bin\Debug\Agenda.exe
+c:\users\antonio\documents\visual studio 2015\Projects\AgendaSolucion\Agenda\bin\Debug\Agenda.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\AgendaSolucion\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2015\Projects\AgendaSolucion\Agenda\obj\Debug\Agenda.Form1.resources
+c:\users\antonio\documents\visual studio 2015\Projects\AgendaSolucion\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+c:\users\antonio\documents\visual studio 2015\Projects\AgendaSolucion\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+c:\users\antonio\documents\visual studio 2015\Projects\AgendaSolucion\Agenda\obj\Debug\Agenda.exe
+c:\users\antonio\documents\visual studio 2015\Projects\AgendaSolucion\Agenda\obj\Debug\Agenda.pdb
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\AgendaSolucion\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\AgendaSolucion\Agenda\obj\Debug\Agenda.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\AgendaSolucion\Agenda\obj\Debug\Agenda.pdb
