@@ -1,0 +1,20 @@
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\bin\Debug\PrestAgenda.exe.config
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\bin\Debug\PrestAgenda.exe
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\bin\Debug\PrestAgenda.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\bin\Debug\MySql.Data.dll
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\bin\Debug\MySql.Data.xml
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.Form1.resources
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.Properties.Resources.resources
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.csproj.GenerateResource.Cache
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.exe
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.buscar.resources
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.control.resources
+c:\users\antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.registrar.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.modificar.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.login.resources
+C:\Users\Antonio\documents\visual studio 2015\Projects\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.Registro.resources
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PrestAgendaSolucion\PrestAgenda\bin\Debug\PrestAgenda.exe.config
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.exe
+C:\Users\Antonio\Dropbox\Desarollo de Aplicaciones II\PrestAgendaSolucion\PrestAgenda\obj\Debug\PrestAgenda.pdb
